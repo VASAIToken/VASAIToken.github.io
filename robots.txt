@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://VASAIToken.github.io/sitemap.xml
+
+
+# VASAI Token official GitHub Pages website
+# Home: https://VASAIToken.github.io/
+# About: https://VASAIToken.github.io/about.html
+# Insights: https://VASAIToken.github.io/insights.html
+# FAQ: https://VASAIToken.github.io/faq.html
+# Contact: https://VASAIToken.github.io/contact.html
